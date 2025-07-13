@@ -5,6 +5,7 @@ import string
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import nltk
+nltk.download("stopwords")
 
 # Download NLTK resources
 nltk.download('stopwords')
