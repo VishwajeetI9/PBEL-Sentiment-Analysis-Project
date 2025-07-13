@@ -1,11 +1,11 @@
 import streamlit as st
-import pickle
 import pandas as pd
+import pickle
 import string
-from nltk.corpus import stopwords
-from nltk.stem import PorterStemmer
 import nltk
 nltk.download("stopwords")
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
 
 # Download NLTK resources
 nltk.download('stopwords')
