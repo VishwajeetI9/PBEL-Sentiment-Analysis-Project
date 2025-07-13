@@ -44,6 +44,9 @@ streamlit run app.py
 4. **Open in browser:**
 App will open at http://localhost:8501
 
+## Streamlit
+https://pbel-sentiment-analysis-project-eygzznqksjjybjdwmddkkh.streamlit.app/
+
 ## Future Improvements
 
 - Add support for neutral reviews 
